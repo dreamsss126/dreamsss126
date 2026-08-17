@@ -37,7 +37,7 @@ Project B - Deloitte Australia Job Simulation
 
 Project C - Ghana Import Trade Analysis
 
-Health Insurance Database and Referral System (MS Excel) - Available upon request
+Project D - Health Insurance Database and Referral System (MS Excel) - Available upon request
 
 ## 🛠️ Technical Skillset
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
