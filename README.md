@@ -35,6 +35,10 @@ Project A - Google Data Analytics Professional Certificate Capstone
 
 Project B - Deloitte Australia Job Simulation
 
+Project C - Ghana Import Trade Analysis
+
+Health Insurance Database and Referral System (MS Excel) - Available upon request
+
 ## 🛠️ Technical Skillset
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-Expert-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
